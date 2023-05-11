@@ -1,0 +1,2 @@
+# dumbgpt
+full dumb
